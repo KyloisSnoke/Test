@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mustafar Home</title>
+    </head>
+    <body>
+        <h1>Star Wars: Mustafar</h1>
+
+        <h2>The People of Mustafar</h2>
+
+        <img src="images/Darth Sidious.jpg">
+        <p>Darth Sidious</p>
+        <img src="images/Darth Vader.png">
+        <p>Darth Vader</p>
+        <img src="images/Kylo Ren, TheKnott Tarasilp.jpg">
+        <p>Kylo Ren</p>
+        <img src="images/North Mustafarian.jpg">
+        <p>North Mustafarians</p>
+        <img src="">
+        <p>South Mustafarians</p>
+        
+       
+        <h2>The Creatures of Mustafar</h2>
+
+        <p>Jawenko Lava Beast</p>
+        <p>Lava Flea</p>
+        <p>Lava Eel</p>
+        <p>Darkghast</p>
+        <p>The Eye of Webbish Bog</p>
+
+        <h2>Locations</h2>
+
+        <p>Vader's Castle</p>
+        <p>Techno Union Mining Complex</p>
+        <p>Sanctum of the Sith</p>
+
+    </body>
+</html>
